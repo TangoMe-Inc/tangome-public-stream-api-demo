@@ -1,0 +1,16 @@
+# Holds a real agency secret - never commit it.
+.env
+
+# Test/demo video files.
+*.mp4
+*.mov
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# JetBrains
+.idea/
